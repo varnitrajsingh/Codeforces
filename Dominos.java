@@ -8,5 +8,6 @@ public class Dominos{
         result = (m*n)/2;
         System.out.println(result);
         sc.close();
+        
     }
 }
