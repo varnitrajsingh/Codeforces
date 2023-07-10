@@ -17,5 +17,6 @@ public class Longwords{
             System.out.println(result);
             t--;
         }
+        sc.close();
     }
 }
